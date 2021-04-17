@@ -20,6 +20,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - display:
+      header: false
+    link: https://cn.linkedin.com/in/%E5%8F%B7%E4%BC%9F-%E6%85%95-412716102
+    icon_pack: fab
+    icon: linkedin
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
