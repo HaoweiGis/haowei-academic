@@ -5,6 +5,8 @@ publication_types:
   - "1"
 authors:
   - Haowei Mu; Liang Zhou; Xuewei Dang; Bo Yuan
+author_notes:
+  - Experiments and drafts by Haowei
 doi: 10.1109/Multi-Temp.2019.8866918
 publication: 2019 10th International Workshop on the Analysis of Multitemporal
   Remote Sensing Images (MultiTemp)
