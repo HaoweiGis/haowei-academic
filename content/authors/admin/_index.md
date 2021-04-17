@@ -11,37 +11,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://github.com/HaoweiGis
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - display:
-      header: false
-    link: https://cn.linkedin.com/in/%E5%8F%B7%E4%BC%9F-%E6%85%95-412716102
-    icon_pack: fab
-    icon: linkedin
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Lanzhou Jiaotong University
+    url: https://www.lzjtu.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      year: 2022
+      institution: University of Jialidong
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+      institution: Lanzhou Jiaotong University
+      year: 2018
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Lanzhou Jiaotong University
+      year: 2014
 email: ""
 superuser: true
 highlight_name: false
