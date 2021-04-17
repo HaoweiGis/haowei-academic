@@ -4,7 +4,10 @@ title: Winter Wheat Yield Estimation from Multitemporal Remote Sensing Images
 publication_types:
   - "1"
 authors:
-  - Haowei Mu; Liang Zhou; Xuewei Dang; Bo Yuan
+  - Haowei Mu
+  - Liang Zhou
+  - Xuewei Dang
+  - Bo Yuan
 author_notes:
   - Experiments and drafts by Haowei
 doi: 10.1109/Multi-Temp.2019.8866918
