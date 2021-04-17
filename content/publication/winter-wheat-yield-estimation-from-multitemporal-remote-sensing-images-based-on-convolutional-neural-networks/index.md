@@ -4,7 +4,7 @@ title: Winter Wheat Yield Estimation from Multitemporal Remote Sensing Images
 publication_types:
   - "1"
 authors:
-  - Convolutional Neural Networks
+  - Haowei Mu; Liang Zhou; Xuewei Dang; Bo Yuan
 doi: 10.1109/Multi-Temp.2019.8866918
 publication: 2019 10th International Workshop on the Analysis of Multitemporal
   Remote Sensing Images (MultiTemp)
