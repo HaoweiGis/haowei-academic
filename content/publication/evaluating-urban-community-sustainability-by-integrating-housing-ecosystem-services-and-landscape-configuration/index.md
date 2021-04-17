@@ -9,6 +9,8 @@ authors:
   - Bao Wang
   - Bo Yuan
   - and Xuewei Dang
+author_notes:
+  - Experiments and drafts by Haowei
 doi: 10.1155/2020/3460962
 publication: Complexity
 abstract: Community is the core spatial unit for evaluating sustainable
