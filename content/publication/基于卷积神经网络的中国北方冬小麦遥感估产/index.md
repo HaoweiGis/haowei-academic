@@ -8,6 +8,8 @@ authors:
   - 慕号伟
   - 马海姣
   - 陈高星
+author_notes:
+  - Experiments and drafts by Haowei
 doi: 10.11975/j.issn.1002-6819.2019.15.016
 publication: 农业工程学报
 abstract: 针对传统的农作物估产方法过度依赖人工经验，以及实地采样成本高等问题。该研究使用MODIS数据构建了基于卷积神经网络（convolutional
