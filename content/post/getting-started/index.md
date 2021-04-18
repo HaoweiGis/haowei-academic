@@ -29,7 +29,7 @@ image:
 2. 获得交大党委宣传部的赞助完成第二届“留动中国”西北大区赛航拍视频；
 3. 完成两次“北漂”，跌倒了又站起来继续考研，学会了数据库和深度学习；
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://github.com/HaoweiGis/haoweiInformation/blob/main/Bachelor/Bachelor.jpg" title="Only a few autumns in life" >}}
 
 ## Get Started
 
