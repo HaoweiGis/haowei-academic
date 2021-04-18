@@ -42,8 +42,11 @@ featured: false
 projects:
   - Sustainability
 image:
-  filename: https://github.com/HaoweiGis/haoweiInformation/blob/main/Publications/Paper3.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
+  caption: "Image credit:
+    [**Unsplash**](https://github.com/HaoweiGis/haoweiInformation/blob/main/Pub\
+    lications/Paper3.jpg)"
 date: 2020-08-27T14:29:00.000Z
 ---
