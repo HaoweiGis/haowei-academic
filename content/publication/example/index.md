@@ -34,8 +34,8 @@ projects:
   - example
 image:
   caption: "Image credit:
-    [**Unsplash**](https://github.com/HaoweiGis/haoweiInformation/blob/main/Pub\
-    lications/paper4.png)"
+    [**Haowei**](https://github.com/HaoweiGis/haoweiInformation/blob/main/Publi\
+    cations/paper4.png)"
   focal_point: ""
   preview_only: false
   filename: paper4.png
