@@ -33,7 +33,7 @@ abstract: The development of deep learning and big data technology has
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2019-10-14T14:26:00.000Z
