@@ -1,17 +1,17 @@
 ---
 title: Notes on the Bachelor's Stage
 subtitle: 学士阶段小记
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 summary: ""
 draft: false
 featured: false
 authors:
   - admin
-  - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
   - 开源
+  - Haowei
 categories:
   - Demo
   - 教程
