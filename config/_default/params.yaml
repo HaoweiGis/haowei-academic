@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '36'
   longitude: '103'
-directions: 702 Academy Sciences
+directions: The 702 academy of sciences
 office_hours:
   - 'Every Day'
 appointment_url: 'https://calendly.com'
@@ -140,7 +140,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 2
   api_key: ''
   zoom: 15
 marketing:
