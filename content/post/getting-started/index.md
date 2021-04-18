@@ -29,8 +29,6 @@ image:
 2. 获得交大党委宣传部的赞助完成第二届“留动中国”西北大区赛航拍视频；
 3. 完成两次“北漂”，跌倒了又站起来继续考研，学会了数据库和深度学习；
 
-{{< figure src="https://github.com/HaoweiGis/haoweiInformation/blob/main/Bachelor/Bachelor.jpg" title="Only a few autumns in life" >}}
-
 ## Get Started
 
 * 👉来自于西北小镇的纯真少年
