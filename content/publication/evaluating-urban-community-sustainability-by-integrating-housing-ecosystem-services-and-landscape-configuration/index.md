@@ -42,7 +42,7 @@ featured: false
 projects:
   - Sustainability
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: "Image credit:
