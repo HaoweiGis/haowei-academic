@@ -1,7 +1,7 @@
 ---
 title: 慕号伟
 role: Master of Remote Sensing
-avatar_filename: 1517045013761.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed sustainability, biodiversity and
   deep learning.
 interests:
