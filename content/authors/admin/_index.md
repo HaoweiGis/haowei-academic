@@ -46,6 +46,6 @@ highlight_name: false
 科研实习工作：
 
 * 2020年6月至今：**中国科学院空天信息研究院**，指导老师：[杜小平老师](http://www.digitalearthlab.com.cn/kydw/fyjy/201912/t20191208_529634.html)。主要进行深度学习算法研究，集成开发机器学习，深度学习和遥感影像处理的框架（[EarthLearning](https://github.com/HaoweiGis/EarthLearning)），并进行工程化应用。例如：道路裂缝监测，建筑物轮廓提取以及无人机小目标检测等
-* 2020年9月至今，**中国农业大学**，指导老师：[李雪草老师](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)。指导完成生态网络和自然保护区光污染等相关研究。接下来将开展城市要素提取，人类足迹与生态多样性方面的学习研究。
+* 2020年9月至今，**中国农业大学**，指导老师：[李雪草老师](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)。指导完成生态网络和自然保护区光污染等相关研究。接下来将开展城市要素提取，人类足迹与生物多样性方面的学习研究。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
