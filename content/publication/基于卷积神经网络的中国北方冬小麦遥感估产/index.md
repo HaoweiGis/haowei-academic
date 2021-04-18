@@ -22,7 +22,7 @@ abstract: 针对传统的农作物估产方法过度依赖人工经验，以及�
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2019-06-11T13:52:00.000Z
