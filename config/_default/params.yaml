@@ -140,7 +140,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 2
+  provider: ''
   api_key: ''
   zoom: 15
 marketing:
