@@ -6,7 +6,8 @@ bio: My research interests include distributed sustainability, biodiversity and
 interests:
   - Artificial Intelligence
   - Sustainability
-  - Biodiversity，Human Footprints
+  - Biodiversity
+  - Human Footprints
 social:
   - icon: envelope
     icon_pack: fas
