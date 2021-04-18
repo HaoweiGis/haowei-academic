@@ -17,7 +17,7 @@ categories:
   - 教程
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: "Image credit: [**Haowei**](https://www.3slab.com/)"
   focal_point: ""
   placement: 2
   preview_only: false
