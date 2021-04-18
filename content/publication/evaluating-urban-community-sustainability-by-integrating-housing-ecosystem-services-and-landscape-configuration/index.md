@@ -39,8 +39,10 @@ abstract: Community is the core spatial unit for evaluating sustainable
   analysis.
 draft: false
 featured: false
+projects:
+  - Sustainability
 image:
-  filename: featured
+  filename: https://github.com/HaoweiGis/haoweiInformation/blob/main/Publications/Paper3.jpg
   focal_point: Smart
   preview_only: false
 date: 2020-08-27T14:29:00.000Z
