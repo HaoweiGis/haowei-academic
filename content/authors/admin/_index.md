@@ -43,7 +43,7 @@ highlight_name: false
 
 重点参与（以第三作者为主）发表了7篇文章，包括[Science of total environment](https://www.sciencedirect.com/science/article/pii/S0048969721009037?via%3Dihub)，[Environmental Science and Pollution Research](https://link.springer.com/article/10.1007/s11356-021-13160-w), and 中国图象图形学报等
 
-**编程技能和平台框架**：Python (GDAL, Numpy, Scikit-learn, etc.)，Pytorch (网络结构设计，Attention，Transformer, etc.), SQL (PostgreSQL, PostGIS, and related function), 地球大数据平台GEE和相关底层技术 (Spark, Geomesa, Geotrellis), 水了10篇相关软件著作权
+**编程技能和平台框架**：Python (GDAL, Numpy, Scikit-learn, etc.)，Pytorch (网络结构设计，Attention，Transformer, etc.), SQL (PostgreSQL, PostGIS, and related function), 地球大数据平台GEE和相关底层技术 (Spark, Geomesa, Geotrellis), 已水10篇相关软件著作权
 
 **科研实习经历**：
 
