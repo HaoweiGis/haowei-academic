@@ -4,8 +4,8 @@ url_pdf: ""
 title: 中国城市主城区棚户区人口占比估算
 summary: ""
 url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: example
+date: 2016-04-27T00:00:00.000Z
+external_link: project/example/
 url_slides: ""
 subtitle: Estimates of population living in shantytowns as a percentage of main
   urban district residents in cities in China
