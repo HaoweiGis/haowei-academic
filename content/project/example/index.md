@@ -1,41 +1,38 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+title: 中国城市主城区棚户区人口占比估算
+summary: ""
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: example
+url_slides: ""
+subtitle: Estimates of population living in shantytowns as a percentage of main
+  urban district residents in cities in China
+tags:
+  - Deep Learning
+links:
+  - url: https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/2030kcxfzyc_686343/P020200927634068540177.pdf
+    name: 报告下载
+    icon_pack: far
+image:
+  caption: ""
+  focal_point: Smart
+  filename: featured.jpg
+url_code: ""
 ---
+**对应目标**：11.1 到 2030 年，确保人人获得适当、安全和负担得起的住房和基本服务，并改造贫民窟。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+**成果亮点**
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+* 采用国产高分2 号（GF-2）卫星数据与先进的深度学习语义分割模型，首次实现2019 年中
+  国27 个城市主城区棚户区空间范围提取与识别。
+* 结果显示：2019 年中国27 个城市主城区棚户区面积共计124.49 km2，棚户区人口约103.20
+  万人；东西部城市棚户区面积和人口占比差异显著，其中广州和海口棚户区人口超过3%，
+  西安、兰州和西宁棚户区面积超过3%，这些城市面临较大的棚户区改造压力，急需有序进
+  行更新和改造。
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+2019 年中国27 个城市主城区棚户区面积为124.49km2，棚户区人口数量103.18 万人（图4-1）。对中国四大经济区分析表明：东部地区主城区棚户区面积为44.06km2，棚户区人口57.83 万人；中部地区主城区棚户区面积21.48 km2，棚户区人口18.29 万人；西部地区主城区棚户区面积42.34 km2，棚户区人口22.86 万人；东北地区主城区棚户区面积16.61 km2，棚户区人口4.20 万人。
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Shantytowns in the main urban districts of the 27 Chinese cities covered an area of 124.49 km2 with a total population of 1.032 million in 2019 (Fig. 4-1). There were significant differences among China's four economic regions (East, Central, West, and Northeast China) in the proportions of AST and PST to those of main urban districts. Specifically, East China had the largest shantytown areas of 44.06 km2 and 578 300 dwellers. West China ranked second, with 42.34 km2 in area and 228 600 dwellers. The shantytowns in Central China covered an area
+of 21.48 km2 with 182 900 dwellers, while those in Northeast China were 16.61 km2 and had 42 000 people.
