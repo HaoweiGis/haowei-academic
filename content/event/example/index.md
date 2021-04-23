@@ -1,73 +1,46 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: 号伟的口头报告和期刊宣传推广（Journal of Geovisualization and Spatial Analysis）
+slides: example
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: Oral presentation
+location: China, Beijing, Shanghai, Guangzhou, Chengdu
+date: 2030-06-01T13:00:00Z
+date_end: 2030-06-01T15:00:00Z
+all_day: false
+event: Academic Conference
+event_url: https://site.ieee.org/france-grss/2019/01/10/multitemp-2019-call-for-papers/
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2017-01-01T00:00:00Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- example
+  - example
+image:
+  caption: "Image credit: [**haowei**](https://www.3slab.com/)"
+  focal_point: Right
+  filename: featured.jpg
+url_code: ""
 ---
-
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Haowei‘s oral presentation!
 {{% /callout %}}
 
-Slides can be added in a few ways:
+号伟的口头报告:
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+* 10th International Workshop on the Analysis of Multitemporal Remote Sensing Images, August 5-7, 2019-Shanghai, China
+* EOEC-GiT4NDM 2019. Chengdu, China June 24-26, 2019 （Journal recommendation）
+* 第二届“城市遥感”学术研讨会，2019年11月23-24日，广州
+* 2020年度SDGs报告第一次工作会议，2020年1月13日，北京，中国空天信息研究院
+* 国务院学位委员会测绘科学与技术学科评议组工作会议，2019年8月6-8，兰州交通大学（志愿者）
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Further event details, please contact me！ [blackmhw@gmail.com](blackmhw@gmail.com)
