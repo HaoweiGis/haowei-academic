@@ -9,8 +9,7 @@ authors:
   - admin
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Academic
-  - 开源
+  - Experience
   - Haowei
 categories:
   - Demo
