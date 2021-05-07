@@ -2,7 +2,9 @@
 slides: example
 url_pdf: ""
 title: 中国城市主城区棚户区人口占比估算
-summary: ""
+summary: 采用国产高分2 号（GF-2）卫星数据与深度学习语义分割模型（[Deeplab
+  V3+](https://github.com/HaoweiGis/Assessing-Urban-Sustainability)），首次实现2019
+  年中国27 个城市主城区棚户区空间范围提取与识别。
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: project/example/
