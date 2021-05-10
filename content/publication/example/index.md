@@ -72,4 +72,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [images](https://www.mdpi.com/2072-4292/13/9/1849/s1).
