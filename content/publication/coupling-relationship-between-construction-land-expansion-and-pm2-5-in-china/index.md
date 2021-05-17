@@ -1,7 +1,7 @@
 ---
 title: Coupling relationship between construction land expansion and PM2.5 in China
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Liang Zhou
   - Bo Yuan
