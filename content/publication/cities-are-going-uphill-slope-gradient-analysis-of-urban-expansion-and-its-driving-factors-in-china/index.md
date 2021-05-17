@@ -3,7 +3,7 @@ title: "Cities are going uphill: Slope gradient analysis of urban expansion and
   its driving factors in China"
 subtitle: ""
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Liang Zhou
   - Xuewei Dang
