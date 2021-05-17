@@ -49,7 +49,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Evaluation of Light Pollution in Global Protected Areas from 1992 to 2018
-doi: https://www.mdpi.com/2072-4292/13/9/1849
+doi: 10.3390/rs13091849
 featured: true
 tags: []
 projects: []
