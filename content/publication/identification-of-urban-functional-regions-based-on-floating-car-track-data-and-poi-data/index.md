@@ -3,7 +3,7 @@ title: Identification of Urban Functional Regions Based on Floating Car Track
   Data and POI Data
 subtitle: ""
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Beibei Yu
   - Zhonghui Wang
