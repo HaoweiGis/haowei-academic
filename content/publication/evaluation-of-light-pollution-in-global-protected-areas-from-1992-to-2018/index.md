@@ -49,5 +49,5 @@ summary: "Light pollution, a phenomenon in which artificial nighttime light
   (NTL) changes the form of brightness and darkness in natural areas such as
   protected areas (PAs), has become a global concern due to its threat to global
   biodiversity. "
-date: 2021-05-10T14:01:57.904Z
+date: 1990-01-01T14:01:57.904Z
 ---
