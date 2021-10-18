@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Future
       year: 2022
-      institution: University of Jialidun
+      institution: Nanjing University
     - course: MEng in Cartography and Geography Information System
       institution: Lanzhou Jiaotong University
       year: 2018
@@ -37,7 +37,7 @@ email: blackmhw@gmail.com
 superuser: true
 highlight_name: false
 ---
-慕号伟是2018级的硕士研究生，研究兴趣包括可持续发展，遥感数据时空重建和深度学习与过程模型耦合。**目前正在申请2022年的博士**
+慕号伟是2018级的硕士研究生，研究兴趣包括可持续发展，遥感数据时空重建和深度学习与过程模型耦合。
 
 **研究生期间**：实验和写作的论文有5篇，包括2篇EI（[农业工程学报](https://www.3slab.com/publication/%E5%9F%BA%E4%BA%8E%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%97%E6%96%B9%E5%86%AC%E5%B0%8F%E9%BA%A6%E9%81%A5%E6%84%9F%E4%BC%B0%E4%BA%A7/)，[MultiTemp IEEE，2019](https://www.3slab.com/publication/winter-wheat-yield-estimation-from-multitemporal-remote-sensing-images-based-on-convolutional-neural-networks/)）和3篇SCI（[Remote Sensing](https://www.mdpi.com/2072-4292/13/9/1849)，[Complexity](https://www.3slab.com/publication/evaluating-urban-community-sustainability-by-integrating-housing-ecosystem-services-and-landscape-configuration/)，and LUP）。并作为编写组成员提交给联合国中英文[可持续发展报告](https://www.fmprc.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/2030kcxfzyc_686343/P020200927634068540177.pdf)，主要工作是[中国城市主城区棚户区人口占比估算](https://www.3slab.com/project/example/)
 
