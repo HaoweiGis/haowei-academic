@@ -37,7 +37,7 @@ email: blackmhw@gmail.com
 superuser: true
 highlight_name: false
 ---
-**研究兴趣：**可持续发展，遥感数据时空重建和深度学习与过程模型耦合。
+**研究兴趣：可持续发展，遥感数据时空重建和深度学习与过程模型耦合。**
 
 **代表性项目：**
 
