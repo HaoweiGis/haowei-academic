@@ -51,7 +51,7 @@ highlight_name: false
 
 **科研实习经历**：
 
-* 2020年10月至今，**中国农业大学**，指导老师：[李雪草老师](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)
-* 2020年6月至2021年6月：**中国科学院空天信息研究院**，指导老师：[杜小平老师](http://www.digitalearthlab.com.cn/kydw/fyjy/201912/t20191208_529634.html)；
+* 2020年10月至今，中国农业大学，指导老师：李雪草 ﻿
+* 2020年6月至2021年6月：中国科学院空天信息研究院，指导老师：杜小平 ﻿
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
