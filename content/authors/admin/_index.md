@@ -51,7 +51,8 @@ highlight_name: false
 
 **科研实习经历**：
 
-* 2020年10月至今，**中国农业大学**，指导老师：[李雪草](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)
-* 2020年6月至2021年6月：**中国科学院空天信息研究院**，指导老师：[杜小平](http://www.cbas.ac.cn/rcdw/yjy/202109/t20210901_660325.html)
+* 2022年09月至今，**南京大学**，指导老师：[杜培军](https://sgos.nju.edu.cn/dpj/list.htm)[](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)
+* 2020年10月至2022年09月：**中国农业大学**，指导老师：[李雪草](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)
+* 2020年06月至2021年06月：**中国科学院空天信息研究院**，指导老师：[杜小平](http://www.cbas.ac.cn/rcdw/yjy/202109/t20210901_660325.html)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
