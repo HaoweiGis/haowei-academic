@@ -20,8 +20,8 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=zh-CN&user=FL5i5hoAAAAJ
 organizations:
-  - name: Lanzhou Jiaotong University
-    url: https://www.lzjtu.edu.cn/
+  - name: Nanjing University
+    url: https://www.nju.edu.cn/
 education:
   courses:
     - course: PhD in Geography
