@@ -57,5 +57,7 @@ highlight_name: false
 * 2020年06月至2021年06月：**中国科学院空天信息研究院**，指导老师：[杜小平](http://www.cbas.ac.cn/rcdw/yjy/202109/t20210901_660325.html)
 
 > [金华浙农信息技术有限公司](https://www.tianyancha.com/company/4976963882)合伙人
+>
+>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
