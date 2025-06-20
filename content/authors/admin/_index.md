@@ -58,6 +58,4 @@ highlight_name: false
 
 > [金华浙农信息技术有限公司](https://www.uav-image.com/#/cloud/home)合伙人
 
-*
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
