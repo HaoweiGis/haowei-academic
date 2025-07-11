@@ -54,7 +54,7 @@ highlight_name: false
 
 * 2022年09月至今，**南京大学**，指导老师：[杜培军](https://sgos.nju.edu.cn/dpj/list.htm)[](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)
 * 2020年10月至2022年09月：**中国农业大学**，指导老师：[李雪草](https://clst.cau.edu.cn/art/2020/10/29/art_31196_714203.html)
-* 2020年06月至2021年06月：**中国科学院空天信息研究院**，指导老师：[杜小平](http://www.cbas.ac.cn/rcdw/yjy/202109/t20210901_660325.html)
+* 2020年06月至2021年06月：**中国科学院空天信息研究院**，指导老师：[杜小平](http://www.cbas.ac.cn/rcdw/yjy/202109/t20210901_487230.html)
 * 2014年09月至2021年09月：**兰州交通大学测绘与地理信息学院**，指导老师：[周亮 ](https://faculty.lzjtu.edu.cn/zhouliang/zh_CN/index.htm)
 
 > [金华浙农信息技术有限公司](https://www.uav-image.com/#/cloud/home)合伙人
