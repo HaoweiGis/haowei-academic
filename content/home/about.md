@@ -1,11 +1,11 @@
 ---
-widget: about
+widget: Authors
 active: true
 author: admin
-widget_id: Authors-慕号伟
+widget_id: Authors
 headless: true
-weight: 0
-title: ""
+weight: 50
+title: Authors
 design:
   background:
     image: ""
